@@ -1,7 +1,7 @@
 /*
  * ProducerConsumer.java
  *
- * This file illustrates the use of Threads in Java.
+ * This file illustrates the use of Threads and monitor lock in Java.
  *
  *  Created on: Aug 5, 2018
  *      Author: Xinmeng Zhang
